@@ -1,0 +1,51 @@
+[gd_scene format=3 uid="uid://cf4wnebrsmecj"]
+
+[ext_resource type="Texture2D" uid="uid://dat7csdq1d8m2" path="res://assets/bg_setting.png" id="1_lv82f"]
+[ext_resource type="Script" uid="uid://im1es77y03yx" path="res://setting.gd" id="1_twti6"]
+[ext_resource type="Texture2D" uid="uid://v8qcho5goid3" path="res://assets/button_start.png" id="3_q554q"]
+
+[sub_resource type="SystemFont" id="SystemFont_7n77a"]
+font_names = PackedStringArray("Impact")
+
+[node name="SettingMenu" type="Control" unique_id=1778764338]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_twti6")
+
+[node name="Background" type="TextureRect" parent="." unique_id=1487634481]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("1_lv82f")
+expand_mode = 1
+
+[node name="BackButton" type="TextureButton" parent="." unique_id=543388243]
+custom_minimum_size = Vector2(220, 100)
+layout_mode = 0
+offset_left = 528.0
+offset_top = 307.0
+offset_right = 748.0
+offset_bottom = 407.0
+texture_normal = ExtResource("3_q554q")
+ignore_texture_size = true
+stretch_mode = 5
+
+[node name="Label" type="Label" parent="BackButton" unique_id=548653843]
+layout_mode = 0
+offset_left = 66.0
+offset_top = 23.0
+offset_right = 152.0
+offset_bottom = 73.0
+theme_override_colors/font_color = Color(0.27925944, 0.14296618, 0.06288182, 1)
+theme_override_fonts/font = SubResource("SystemFont_7n77a")
+theme_override_font_sizes/font_size = 40
+text = "BACK"
+horizontal_alignment = 1
+vertical_alignment = 1

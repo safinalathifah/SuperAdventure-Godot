@@ -1,0 +1,13 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1795010356
+icon.svg::CompressedTexture2D::2855220984805506695::1795006702::1795006710::1::::<><><>0<>0<>eacd8ece1121558be7bae07df06d6e17<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+main_menu.tscn::PackedScene::3024929648339508632::1795010301::0::1::::<><><>0<>0<><>::uid://bqi10mhock0vm::::res://main_menu.gd<>uid://bxfbdnwfiyp37::::res://assets/background_utama.png<>uid://bcuykw5wso84a::::res://assets/title_banner.png<>uid://v8qcho5goid3::::res://assets/button_start.png<>uid://cvrb65760a5ui::::res://assets/assets_2.png
+main_menu.gd::GDScript::3527581132326671786::1795010301::0::1::::<>Control<><>0<>0<><>::
+::res://assets/::1795010527
+assets_1.png::CompressedTexture2D::5122475770600336383::1795007191::1795007234::1::::<><><>0<>0<>00794b0bbcd434203d92149988eca939<>res://.godot/imported/assets_1.png-cc140034d43fa937aa4d15f64b65cd78.ctex::
+assets_2.png::CompressedTexture2D::6282019208783904152::1795010107::1795010127::1::::<><><>0<>0<>b4bcf50d657c60da97949c169b27113b<>res://.godot/imported/assets_2.png-7af423ef4d05b7038989a19278a8a8d0.ctex::
+background_utama.png::CompressedTexture2D::4011152767540704372::1795007501::1795007522::1::::<><><>0<>0<>227011ac684a97ecc492acf7467d036e<>res://.godot/imported/background_utama.png-1a02e7a4fd941344b7d41a6c71ec7ca5.ctex::
+bg_setting.png::CompressedTexture2D::7200432694579359407::1795010507::1795010529::1::::<><><>0<>0<>5ff2f6a86f20adf0aa4f025df33f0522<>res://.godot/imported/bg_setting.png-69d990e842966b9f68d1f885d93dc7ee.ctex::
+button_start.png::CompressedTexture2D::1543065616417079090::1795008131::1795008200::1::::<><><>0<>0<>f2d719ac305b7c0fbc7ebed20c033139<>res://.godot/imported/button_start.png-85712e6478b27699452c03f90341a578.ctex::
+panel_judul.png::CompressedTexture2D::3365301865406160226::1795007211::1795007234::1::::<><><>0<>0<>13ef44973484bf2e68c3476a9623d37b<>res://.godot/imported/panel_judul.png-c9b41de9dd6e35a2509c283b623c2ab6.ctex::
+title_banner.png::CompressedTexture2D::2569562194697863854::1794999842::1795007675::1::::<><><>0<>0<>88d22d30b96d58457ce0e758d74c13b8<>res://.godot/imported/title_banner.png-c842557711a0020866b3ef59f2fb9450.ctex::
