@@ -18,7 +18,7 @@ func _pindah_kursor(tombol: Control) -> void:
 	cursor.global_position.y = tombol.global_position.y + (tombol.size.y - cursor.size.y) / 2.0
 
 func _on_start_pressed() -> void:
-	print("Tombol START GAME diklik!")
+	get_tree().change_scene_to_file("res://scene1.tscn")
 
 func _on_setting_pressed() -> void:
 	get_tree().change_scene_to_file("res://setting.tscn")

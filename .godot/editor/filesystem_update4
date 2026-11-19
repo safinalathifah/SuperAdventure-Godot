@@ -1,5 +1,4 @@
-res://main_menu.tscn
-res://main_menu.gd
 res://setting.tscn
-res://background.gd
-res://setting.gd
+res://main_menu.gd
+res://scene1.tscn
+res://canvas_layer.gd
